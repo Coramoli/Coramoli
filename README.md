@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 #### Mis estadistias de GitHub
 
-(https://github-readme-stats.vercel.app/api?username=Coramoli&show_icons=true&theme=dark)(https://github.com/Coramoli)
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Coramoli&show_icons=true&theme=dark)](https://github.com/Coramoli)
 
 #### Contact:
 [!Gmail Badge]
