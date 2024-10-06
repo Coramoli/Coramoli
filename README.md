@@ -33,5 +33,4 @@ Here are some ideas to get you started:
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Coramoli&show_icons=true&theme=dark)](https://github.com/Coramoli)
 
 #### Contact:
-[!Gmail Badge]
-(https://img.shields.io/badge/-maria.molina.83@gmail.com-cl14438?style=flat-square&logo=Gmail&logoColor=white&link=milto:maria.molina.83@gmail.comm)(maria.molina.83@gmail.com)
+[!Gmail Badge](https://img.shields.io/badge/-maria.molina.83@gmail.com-cl14438?style=flat-square&logo=Gmail&logoColor=white&link=milto:maria.molina.83@gmail.comm)](maria.molina.83@gmail.com)
