@@ -19,3 +19,12 @@ Here are some ideas to get you started:
 ### Aquí podrás encontrar todo el código que he ido a prendiendo y en qué proyectos estoy trabajando.
 
 ![](https://acerkate.com/storage/2021/05/diseno-web-scaled.jpg)
+
+
+###Mis repositorios
+[https://github.com/Coramoli/MiPrimerRepositorio.git]
+[https://github.com/Coramoli/Practicas_Tokio.git]
+
+###Mis estadistias de GitHub
+(https://github-readme-stats.vercel.app/api?username=Coramoli&show_icons=true&theme=dark)(https://github.com/Coramoli)
+###Constact:
